@@ -1,0 +1,105 @@
+1  ^Rede de Relacionamento^
+2  ^Mandar uma mensagem para este Sim^
+3  ^Marcar este Sim^
+4  ^Nome do Sim^
+5  ^Fechar^
+6  ^Expandir^
+7  ^Contratar^
+8  ^Onde estou^
+9  ^Onde está a minha propriedade^
+10 ^Descrição do Sim^
+11 ^Conquistas e Habilidades do Sim^
+12 ^Opções de permição do Sim^
+13 ^Descrição do Sim^
+14 ^Rolar para Cima^
+15 ^Rolar para Baixo^
+16 ^Habilidades do Sim^
+17 ^Mecânica^
+18 ^Culinária^
+19 ^Carisma^
+20 ^Lógica^
+21 ^Físico^
+22 ^Criatividade^
+23 ^Mecânica: %d.%.2d^
+24 ^Culinária: %d.%.2d^
+25 ^Carisma: %d.%.2d^
+26 ^Lógica: %d.%.2d^
+27 ^Físico: %d.%.2d^
+28 ^Criatividade: %d.%.2d^
+29 ^Adicionar para sua lista de propriedades banidas.^
+30 ^Adicionar para sua lista de propriedades admitidas.^
+31 ^Ignorar este Sim^
+32 ^Convidar para ser Colega de Quarto^
+33 ^Expulsar da sua propriedade^
+34 ^Bloqueamento Parental.^
+35 ^Nasceu: %s Idade: %d dias^
+36 ^Nasceu: %s Idade: 1 dia^
+37 ^Por favor, entre com a senha do controle parental para mudar a descrição do seu Sim^
+38 ^Adicionar o Sim na sua lista de admitidos.^
+39 ^A lista de admitidos está cheia.^
+40 ^Adicionar o Sim na sua lista de banidos.^
+41 ^A lista de banidos está cheia.^
+42 ^A senha está incorreta, tente novamente.^
+43 ^Senha Errada^
+44 ^Não pode desmarcar um colega de quarto.^
+45 ^Colegas de quarto sempre estão marcados.^
+46 ^Fundador^
+47 ^Destrancar esta habilidade^
+48 ^Trancar esta habilidade^
+49 ^%d de %d pontos de habilidades trancados^
+50 ^Você não pode localizar este sim.  Você está o ignorando.
+51 ^Você não pode localizar este sim.  Ele está te ignorando.^
+52 ^Este sim não está em uma propriedade no momento,  tente novamente depois.^
+53 ^Configuração de Privacidade (Onde estou)^
+54 ^A sua Privacidade está ativa. Os jogadores não poderão te localizar com o botão "Onde estou". Deseja desativar a privacidade, e permitir outros jogadores a te localizar?
+^
+55 ^A sua Privacidade está Desativada.  Deseja ativar a privacidade, e permitir outros jogadores a te localizar com o botão "Onde estou"?
+^
+56 ^Onde estou?  Ativar Privacidade^
+57 ^Onde estou?  Desativar Privacidade^
+58 ^Titulos de Emprego^
+59 ^Titulos de Emprego Conquistados^
+60 ^Titulo atual:^
+61 ^Desempregado^
+62 ^Outros Titulos:^
+63 ^Mais informações sobre o Emprego^
+64 ^Informação do Emprego^
+65 ^Tipo de Emprego Atual: %s
+Titulo: %s
+Hora: %s
+Carona: Cerca de %s
+Próxima promoção: %s^
+66 ^Tipo de Emprego Atual: Autônomo(a)
+Titulo: Empreendedor(a)
+Hora: Variavel
+Carona: --
+Próxima promoção: Autopromoção^
+67 ^--^
+68 ^Funcionário(a) da Fabrica de Robô^
+69 ^Garçom/Garçonete^
+70 ^Cozinheiro(a)^
+71 ^DJ^
+72 ^Dançarino(a)^
+73 ^9:00am até 5:00pm^
+74 ^8:00am^
+75 ^11:00am até 7:00pm^
+76 ^10:00am^
+77 ^8:00pm até 4:00am^
+78 ^7:00pm^
+79 ^Nenhuma outra promoção está disponível neste momento^
+80 ^Relacionamentos do Sim^
+81 ^Extrovertido: Como você se sente sobre o Sim^
+82 ^Introvertido: Como este Sim se sente sobre você^
+83 ^Diário:^
+84 ^Tempo de vida:^
+85 ^ Dia^
+86 ^ Dias^
+87 ^Seu relacionamento diário com este Sim^
+88 ^Seu relacionamento com este Sim desde sempre^
+89 ^Relacionamento diário deste Sim com você^
+88 ^Relacionamento deste Sim com você desde sempre^
+91 ^Duração da sua relação com este Sim^
+92 ^Duração da relação do Sim com você.^
+93 ^Perdão, este Sim já é um proprietário ou um companheiro de quarto em outro lugar. Ele precisará ser desabrigado para que você possa enviar um convite para ser um colega de quarto.^
+94 ^Convite de Colega de Quarto Falhou^
+95 ^Sair da Sua Propriedade.^
